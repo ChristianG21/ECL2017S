@@ -7,10 +7,11 @@
 **ECL Class Position:** Student  
 **Course Webpage:** http://www.shahmoradi.org/ECL2017S/  
 **Photo:**  
+![My face](http://imgur.com/47aIRMg)
 
 ##**Description of the project's content.**
 
-This repository contains my homework, quizzes, and virtually every effor that I have made for [ECL2017S 
+This repository contains my homework, quizzes, and virtually every effor that I have made for [ECL2017S  
 class](http://www.shahmoradi.org/ECL2017S/). The structure of the project is the following:
 
 * [**homework**](https://github.com/ChristianG21/ECL2017S/tree/master/homework)**:**  
