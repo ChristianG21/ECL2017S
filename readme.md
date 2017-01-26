@@ -7,7 +7,7 @@
 **ECL Class Position:** Student  
 **Course Webpage:** http://www.shahmoradi.org/ECL2017S/  
 **Photo:**  
-![My face](http://imgur.com/47aIRMg)
+![My face](http://imgur.com/47aIRMg.jpg)
 
 ##**Description of the project's content.**
 
