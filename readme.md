@@ -1,6 +1,5 @@
-**Name:** Christian Garcia
-
-**UT EID:** CRG2965
+**Name:** Christian Garcia  
+**UT EID:** CRG2965  
 
 **Email:** Christian.G21@gmail.com
 
@@ -8,8 +7,7 @@
 
 **University:** [The University of Texas at Austin](http://www.utexas.edu/)
 
-**Level:** Undergraduate - Sophomore (2nd year)
-
+**Level:** Undergraduate - Sophomore  
 **ECL Class Position:** Student
 
 **Course Webpage:** http://www.shahmoradi.org/ECL2017S/
