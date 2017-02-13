@@ -1,4 +1,5 @@
 Homework 2: Advanced Git  
+1.
 A.
 ```bash
 $ git branch test1
@@ -194,3 +195,5 @@ remote: Resolving deltas: 100% (5/5), completed with 1 local objects.
 To git@github.com:ChristianG21/ECL2017S.git
    357573f..fbe612b  master -> master
 ```  
+2.
+https://christiang21.github.io/ECL2017S/ is now based off of a branch of by the name of gh-pages.
