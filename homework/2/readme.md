@@ -196,4 +196,4 @@ To git@github.com:ChristianG21/ECL2017S.git
    357573f..fbe612b  master -> master
 ```  
 2.
-https://christiang21.github.io/ECL2017S/ is now based off of a branch of by the name of gh-pages.
+https://christiang21.github.io/ECL2017S/ is now based off of a branch by the name of gh-pages.
