@@ -18,5 +18,4 @@ classdictionary = dict('nicholas boeker'
                        ,'bradley smith'
                        ,'amir shahmoradi'
                        ,'vivek varier')
-classdictionary[1,:] = 5
 print(classdictionary)
