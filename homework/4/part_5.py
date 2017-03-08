@@ -1,0 +1,22 @@
+classdictionary = dict('nicholas boeker'
+                       ,'bradley bridges'
+                       ,'sagar dhana'
+                       ,'travis driver'
+                       ,'eric gagliano'
+                       ,'christian garcia'
+                       ,'matthew goree'
+                       ,'lucero herrera'
+                       ,'jake janssen'
+                       ,'michael langford'
+                       ,'colin lewis'
+                       ,'mark loveland'
+                       ,'emilio mendiola'
+                       ,'kreshel nguyen'
+                       ,'russell philley'
+                       ,'caleb phillips'
+                       ,'joseph robbins'
+                       ,'bradley smith'
+                       ,'amir shahmoradi'
+                       ,'vivek varier')
+classdictionary[1,:] = 5
+print(classdictionary)
