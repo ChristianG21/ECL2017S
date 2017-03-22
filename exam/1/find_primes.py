@@ -1,0 +1,2 @@
+def findprimes(x)
+    
