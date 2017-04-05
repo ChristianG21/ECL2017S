@@ -24,6 +24,7 @@ to a boolean we get that the statement is false.
 the range, and because of that, after we get rid of 3 we jump straight to n = 8, because there are  
 no numbers between 3 and 8.  
     
-6a) Done, look at code.  
-6b) get\_primes(n), the recursive was much faster, recording at 36.6 microseconds per loop compared  
+6) A) Done, look at code.  
+  
+B) get\_primes(n), the recursive was much faster, recording at 36.6 microseconds per loop compared  
 to to 1.73 milliseconds per loop using for loops in get\_primes\_for(n).  
