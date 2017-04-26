@@ -1,12 +1,10 @@
 from part_three import midpoint
 import matplotlib.pyplot as plt
 import numpy as np
-
-def y(x):
-	return x*(12-x)+np.sin(np.pi*x)
+x = 1
 yY = np.zeros(len(x))
 for i in range(len(x)):
-    yY[i] = P(x[i])
+    yY[i] = x[i]*(12-x[i])+np.sin(np.pi*x[i])
 plt.plot(x, yY, 'r-')
 plt.xlabel('x')
 plt.ylabel('f(x)')
