@@ -32,9 +32,10 @@ def ep_fluFileTester():
 	for k in range(1,len(row)):
 		ID = row[k]
 		try:
-			urlr.urlretrieve('http://butler.lab.asu.edu/swift/'+ID[21:29]+'/bat/ep_flu.txt',filename=outputPath+'/Gamma-Ray Burst Data/'+'ep_flu_files/'+ID[7:17]+'_ep_flu.txt')
+			urlr.urlretrieve('http://www.shahmoradi.org/ECL2017S/homework/9/swift/GRB'+ID[21:29]+'_ep_flu.txt',filename=outputPath+'/Gamma-Ray Burst Data/'+'ep_flu_files/'+ID[7:17]+'_ep_flu.txt')
 		except urlr.HTTPError:
 			continue
+	ogtable.close()
 
 def plotBatFiles(inPath,figFile):
 
@@ -56,6 +57,6 @@ def plotBatFiles(inPath,figFile):
 	plt.savefig(figFile)
 	plt.show()
 
-#fetchHtmlTable(link,outputPath)
-#ep_fluFileTester()
+fetchHtmlTable(link,outputPath)
+ep_fluFileTester()
 plotBatFiles(outputPath+'/Gamma-Ray Burst Data/'+'ep_flu_files/',outputPath+'/Gamma-Ray Burst Data/GRBData')
