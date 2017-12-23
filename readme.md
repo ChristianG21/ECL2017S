@@ -1,4 +1,4 @@
-**Name:** Christian Garcia  
+**Name:** Christian R. Garcia  
 **UT EID:** CRG2965  
 **Email:** Christian.G21@gmail.com  
 **Department:** [Department of Aerospace Engineering and Engineering Mechanics](http://www.ae.utexas.edu/)  
