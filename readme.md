@@ -5,9 +5,7 @@
 **University:** [The University of Texas at Austin](http://www.utexas.edu/)  
 **Level:** Undergraduate - Sophomore  
 **ECL Class Position:** Student  
-**Course Webpage:** http://www.shahmoradi.org/ECL2017S/  
-**Photo:**  
-![My face](http://imgur.com/lP0tntN.jpg)
+**Course Webpage:** http://www.shahmoradi.org/ECL2017S/
 
 ##**Description of the project's content.**
 
@@ -31,8 +29,5 @@ For questions and troubleshooting, please contact:
 
 Christian R. Garcia  
 Christian.G21@gmail.com  
-Christian.G21@utexas.edu  
-(512) 981-9975  
-
->### I have not failed. I've just found 10,000 ways that won't work.
->###[Thomas A. Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
+ChristianGarcia@utexas.edu  
+(512) 981-9975
