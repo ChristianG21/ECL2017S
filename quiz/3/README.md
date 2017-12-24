@@ -11,4 +11,4 @@
   
 6. git tag  
   
-7. Local VCS, Centralized VCS, Distributed VCS.  
+7. Local VCS, Centralized VCS, Distributed VCS.
