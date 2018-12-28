@@ -1,4 +1,4 @@
-**Date:** Spring 2017
+**Date:** Spring 2017  
 **Name:** Christian R. Garcia  
 **UT EID:** CRG2965  
 **Email:** Christian.G21@gmail.com  
