@@ -1,11 +1,6 @@
+## Engineering Computation Lab
 **Date:** Spring 2017  
-**Name:** Christian R. Garcia  
-**UT EID:** CRG2965  
-**Email:** Christian.G21@gmail.com  
-**Department:** [Department of Aerospace Engineering and Engineering Mechanics](http://www.ae.utexas.edu/)  
-**University:** [The University of Texas at Austin](http://www.utexas.edu/)  
 **Level:** Undergraduate - Sophomore  
-**ECL Class Position:** Student  
 **Course Webpage:** http://www.shahmoradi.org/ECL2017S/
 
 **Description of the project's content.**
